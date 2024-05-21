@@ -544,9 +544,6 @@ For RuleGroups, Rules and Filters use comments to organize filters and to provid
 
 ![](./media/image19.png)
 
-Hash configurations that are deployed and keep a log of them for later
-verification.
-
 Hash configurations that are deployed and keep a log of them for later verification.
 On a system where the Sysmon service process consumes a lot of CPU resources, the number of filters and operators should be reviewed. The operators that use slightly more CPU are:
 
